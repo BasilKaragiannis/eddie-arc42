@@ -1,36 +1,13 @@
-# Glossary {#section-glossary}
+# Glossary
 
-::: formalpara-title
-**Contents**
-:::
+The most important domain and technical terms of the system are listed below.
 
-The most important domain and technical terms that your stakeholders use
-when discussing the system.
 
-You can also see the glossary as source for translations if you work in
-multi-language teams.
+| Term | Definition |
+|------|------------|
+|Consumer|This is the energy consumer, i.e., a house owner.|
+|Eligible party|This is an individual/company/organization that has received consent from at least one consumer to process their data.|
+|Energy provider| This is the organization responsible for providing the historical data to either the consumer or an eligible party. Can be the distribution system operator, the transmission system operator, or an electricity retailer.|
 
-::: formalpara-title
-**Motivation**
-:::
 
-You should clearly define your terms, so that all stakeholders
-
--   have an identical understanding of these terms
-
--   do not use synonyms and homonyms
-
-A table with columns \<Term> and \<Definition>.
-
-Potentially more columns in case you need translations.
-
-See [Glossary](https://docs.arc42.org/section-12/) in the arc42
-documentation.
-
-+-----------------------+-----------------------------------------------+
-| Term                  | Definition                                    |
-+=======================+===============================================+
-| *\<Term-1>*           | *\<definition-1>*                             |
-+-----------------------+-----------------------------------------------+
-| *\<Term-2>*           | *\<definition-2>*                             |
-+-----------------------+-----------------------------------------------+
+Note: Clearly define the utilized terminology here so that everyone has an identical understanding of these terms. Synonyms and homonyms are discouraged.
