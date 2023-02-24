@@ -2,7 +2,7 @@
 
 The glossary is divided into 3 sections: Domain terms, Technical terms, and Data types. The definitions here should be expressed clearly so that everyone has an identical understanding of each term. Synonyms and homonyms are discouraged.
 
-## Domain terms 
+## Domain Terms 
 
 
 | Term | Definition |
@@ -12,7 +12,7 @@ The glossary is divided into 3 sections: Domain terms, Technical terms, and Data
 |Energy provider| This is the organization that hosts the data of a consumer. It is responsible for sharing this data with the consumer and eligible parties upon request. In reality, this can be the distribution system operator, the transmission system operator, or an electricity retailer.|
 | | |
 
-## Technical terms 
+## Technical Terms 
 
 
 | Term | Definition |
@@ -20,10 +20,10 @@ The glossary is divided into 3 sections: Domain terms, Technical terms, and Data
 | Service| The application of an eligible party that processes data from consumers.|
 | | |
 
-## Data types terms 
+## Data Types 
 
 | Term | Definition |
 |------|------------|
-|Historical data| Explanation|
-|Real-time data| |
+|Historical data| Validated historical metering and consumption data. |
+|Real-time data| Non-validated near real-time data from P1-interface in smart meter. |
 |Master data| |
