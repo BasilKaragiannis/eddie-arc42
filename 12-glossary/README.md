@@ -1,6 +1,6 @@
 # Glossary
 
-The glossary is divided into 3 sections: Domain terms, Technical terms, and Data types. The definitions here should be expressed clearly so that everyone has an identical understanding of each term. Synonyms and homonyms are discouraged.
+The glossary is divided into four sections: domain terms, technical terms, data types, and acronyms. The definitions here should be expressed clearly so that everyone has an identical understanding of each term. Synonyms and homonyms are discouraged.
 
 ## Domain Terms 
 
@@ -27,3 +27,11 @@ The glossary is divided into 3 sections: Domain terms, Technical terms, and Data
 |Historical data| Validated historical metering and consumption data. |
 |Real-time data| Non-validated near real-time data from P1-interface in smart meter. |
 |Master data| |
+
+## Acronyms 
+
+
+| Acronym | Definition |
+|------|------------|
+| AIIDA | Administrative Interface for In-house Data Access|
+| | |

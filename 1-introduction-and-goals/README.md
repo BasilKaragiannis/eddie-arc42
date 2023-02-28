@@ -14,7 +14,7 @@ EDDIE (European Distributed Data Infrastructure for Energy) is a research projec
 
 There are 2 prime business goals:
 1. At the moment, an energy consumer can make use of services (e.g., visualizations, predictions) offered by their energy provider. To do this, one can log in to the website of their energy provider and access the available services. The EDDIE framework aims at allowing consumers to access the services of any energy provider in the same or a different country. This will allow all energy providers to work and compete in a common energy market.
-1. The EDDIE framework aims at allowing anyone (e.g., individuals, organizations or research groups) with appropriate permission from consumers to access and process energy data in order to generate value in a commercial or non-commercial context, e.g., by developing novel services. 
+1. The second goal of the EDDIE framework is to enable energy consumers to use services that are provided not only by the energy provider but by any eligible party. An eligible party can be anyone, e.g., individuals, organizations or research groups, with appropriate permission from consumers to access and process their energy data in order to generate value in a commercial or non-commercial context, e.g., by developing novel services. 
 
 ## Essential Features
 
@@ -24,7 +24,7 @@ The essential features of the framework are:
 
 ## Essential Functional Requirements
 
-The essential functional requirements are listed below. A more elaborate description of the requirements is [here](../10-quality-requirements/)
+The essential functional requirements are listed below. A more elaborate description of the requirements is [here](../10-quality-requirements/).
 - Decentralized: The consumer data must be shared only with eligible parties (i.e., that have the permission of the consumer). A central place that aggregates consumer data without the permission of the consumer must not be used.
 - Scalable. The consumer must be able to share their data with multiple eligible parties. Moreover, an eligible party must be able to collect data from multiple consumers.
 - Extensible. The framework must be extensible so that adding unsupported energy providers does not involve significant engineering/developing effort.
@@ -65,5 +65,5 @@ Persons that may make use of this document can have the following roles:
 |-|-|
 | Product owner | Needs to understand the overall structure of a system that uses the framework, e.g., to be able to prioritize development tasks. |
 | Software architect | Needs to understand the architecture of a system that uses the framework,e.g., to be able to design services. |
-| Developer | Needs to understand the functionality of a specific component, e.g., to be able to perform code modifications. |
+| Software Developer | Needs to understand the functionality of a specific component, e.g., to be able to perform code modifications. |
 | DevOps Engineer | Needs to understant the interactions among the components of the framework, e.g., to be able to deploy and run the framework. |
