@@ -2,7 +2,7 @@
 <br/>
 <br/>
 
-
+ 
 # EDDIE Architecture
 
 This repository hosts the software architecture of EDDIE (European Distributed Data Infrastructure for Energy) which has been documented based on [acr42](https://arc42.org/). EDDIE is a research project co-funded by the European Union's Horizon Innovation Actions under grant agreement No. 101069510. For the details of the architecture, please check the links below.
